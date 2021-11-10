@@ -1,0 +1,14 @@
+C:\Users\wsffa\c#_projects\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.exe
+C:\Users\wsffa\c#_projects\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.deps.json
+C:\Users\wsffa\c#_projects\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.runtimeconfig.json
+C:\Users\wsffa\c#_projects\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.runtimeconfig.dev.json
+C:\Users\wsffa\c#_projects\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.dll
+C:\Users\wsffa\c#_projects\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.pdb
+C:\Users\wsffa\c#_projects\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.csproj.AssemblyReference.cache
+C:\Users\wsffa\c#_projects\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsffa\c#_projects\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.AssemblyInfoInputs.cache
+C:\Users\wsffa\c#_projects\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.AssemblyInfo.cs
+C:\Users\wsffa\c#_projects\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.csproj.CoreCompileInputs.cache
+C:\Users\wsffa\c#_projects\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.dll
+C:\Users\wsffa\c#_projects\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.pdb
+C:\Users\wsffa\c#_projects\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.genruntimeconfig.cache
