@@ -17,7 +17,7 @@ namespace TicTacToeProblem
         //Get user input
         public static char GetPlayerInput()
         {
-            Console.WriteLine("\nChoose X or O");
+            Console.WriteLine("Choose X or O");
             char player = Convert.ToChar(Console.ReadLine());
             return player;
         }
